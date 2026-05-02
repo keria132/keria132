@@ -1,6 +1,5 @@
 # Hey there
-### Привет, я Кирилл 👋
- 
+
 ---
  
 Frontend developer with an open mind for everything low-level or web-related.
